@@ -4,29 +4,29 @@
 
 **Link : [https://adventofcode.com/2022](https://adventofcode.com/2022)**
 
-Day 1: Calorie Counting [python code](coding/advent-of-code-2022/day1)
+Day 1: Calorie Counting -- [[link](https://adventofcode.com/2022/day/1)] [[python solution](coding/advent-of-code-2022/day1)]
 
-Day 2: Rock Paper Scissors
+Day 2: Rock Paper Scissors -- [[link](https://adventofcode.com/2022/day/2)] [python solution]
 
-Day 3: Rucksack Reorganization
+Day 3: Rucksack Reorganization -- [[link](https://adventofcode.com/2022/day/3)] [python solution]
 
-Day 4: Camp Cleanup
+Day 4: Camp Cleanup -- [[link](https://adventofcode.com/2022/day/4)] [python solution]
 
-Day 5: Supply Stacks
+Day 5: Supply Stacks -- [[link](https://adventofcode.com/2022/day/5)] [python solution]
 
-Day 6: Tuning Trouble
+Day 6: Tuning Trouble -- [[link](https://adventofcode.com/2022/day/6)] [python solution]
 
-Day 7: No Space Left On Device
+Day 7: No Space Left On Device -- [[link](https://adventofcode.com/2022/day/7)] [python solution]
 
-Day 8: Treetop Tree House
+Day 8: Treetop Tree House -- [[link](https://adventofcode.com/2022/day/8)] [python solution]
 
-Day 9: Rope Bridge
+Day 9: Rope Bridge -- [[link](https://adventofcode.com/2022/day/9)] [python solution]
 
-Day 10: Cathode-Ray Tube
+Day 10: Cathode-Ray Tube -- [[link](https://adventofcode.com/2022/day/10)] [python solution]
 
-Day 11: Monkey in the Middle
+Day 11: Monkey in the Middle -- [[link](https://adventofcode.com/2022/day/11)] [python solution]
 
-Day 12: Hill Climbing Algorithm
+Day 12: Hill Climbing Algorithm -- [[link](https://adventofcode.com/2022/day/12)] [python solution]
 
-Day 13: Distress Signal
+Day 13: Distress Signal -- [[link](https://adventofcode.com/2022/day/13)] [python solution]
 
