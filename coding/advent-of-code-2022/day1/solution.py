@@ -1,3 +1,5 @@
+# https://adventofcode.com/2022/day/1
+
 # First Half
 input_path = "calories.txt"
 def elf_carrying_most_calories():
@@ -32,7 +34,7 @@ def top3_elves_carrying_most_calories():
                 curr_value = 0
             else:
                 curr_value += int(line)
-        return sum(max_value)
+    return sum(max_value)
 
 if __name__ == "__main__":
     assert elf_carrying_most_calories() == 68292
