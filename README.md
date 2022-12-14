@@ -4,9 +4,9 @@
 
 **Link : [https://adventofcode.com/2022](https://adventofcode.com/2022)**
 
-Day 1: Calorie Counting -- [[link](https://adventofcode.com/2022/day/1)] [[python solution](coding/advent-of-code-2022/day1)]
+Day 1: Calorie Counting -- [[link](https://adventofcode.com/2022/day/1)] [[python solution](coding/advent-of-code-2022/day1/solution.py)]
 
-Day 2: Rock Paper Scissors -- [[link](https://adventofcode.com/2022/day/2)] [python solution]
+Day 2: Rock Paper Scissors -- [[link](https://adventofcode.com/2022/day/2)] [[python solution](coding/advent-of-code-2022/day2/solution.py)]
 
 Day 3: Rucksack Reorganization -- [[link](https://adventofcode.com/2022/day/3)] [python solution]
 
