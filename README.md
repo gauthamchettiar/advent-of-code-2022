@@ -8,7 +8,7 @@ Day 1: Calorie Counting -- [[link](https://adventofcode.com/2022/day/1)] [[pytho
 
 Day 2: Rock Paper Scissors -- [[link](https://adventofcode.com/2022/day/2)] [[python solution](coding/advent-of-code-2022/day2/solution.py)]
 
-Day 3: Rucksack Reorganization -- [[link](https://adventofcode.com/2022/day/3)] [python solution]
+Day 3: Rucksack Reorganization -- [[link](https://adventofcode.com/2022/day/3)] [[python solution](coding/advent-of-code-2022/day3/solution.py)]
 
 Day 4: Camp Cleanup -- [[link](https://adventofcode.com/2022/day/4)] [python solution]
 
@@ -30,3 +30,4 @@ Day 12: Hill Climbing Algorithm -- [[link](https://adventofcode.com/2022/day/12)
 
 Day 13: Distress Signal -- [[link](https://adventofcode.com/2022/day/13)] [python solution]
 
+Day 14: Regolith Reservoir -- [[link](https://adventofcode.com/2022/day/14)] [python solution]
