@@ -1,9 +1,12 @@
+# Day 3: Rucksack Reorganization
 # https://adventofcode.com/2022/day/3
 
-input_path = "rucksack.txt"
+from timeit import timeit
+
+input_path = "input.txt"
 
 # First Half
-def rucksack_priority():
+def part1():
     priority = 0
     with open(input_path, "r") as input_file:
         for line in input_file:
@@ -16,7 +19,7 @@ def rucksack_priority():
     return priority
 
 # Second Half
-def rucksack_priority_in_group():
+def part2():
     priority = 0
     with open(input_path, "r") as input_file:
         three_lines = [None, None, None]
@@ -32,6 +35,9 @@ def rucksack_priority_in_group():
     return priority
 
 if __name__ == "__main__":
-    assert rucksack_priority() == 7980
-    assert rucksack_priority_in_group() == 2881
+    assert part1() == 7980
+    assert part2() == 2881
+    
+    print("TIME TAKEN (NOT OPTIMIZED) : part1 = ", timeit(part1, number=1000))
+    print("TIME TAKEN (NOT OPTIMIZED) : part2 = ", timeit(part2, number=1000))
 

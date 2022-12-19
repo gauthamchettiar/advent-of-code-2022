@@ -1,11 +1,15 @@
+# Day 1: Calorie Counting
 # https://adventofcode.com/2022/day/1
 
+from timeit import timeit
+
+input_path = "input.txt"
+
 # First Half
-input_path = "calories.txt"
-def elf_carrying_most_calories():
+def part1():
     max_value = 0
     curr_value = 0
-
+    
     with open(input_path, "r") as input_file:
         for line in input_file:
             if line == "\n":
@@ -16,7 +20,7 @@ def elf_carrying_most_calories():
     return max_value
 
 # Second Half
-def top3_elves_carrying_most_calories():
+def part2():
     max_value = [0, 0, 0]
     lowest_index = 0
     curr_value = 0
@@ -37,6 +41,9 @@ def top3_elves_carrying_most_calories():
     return sum(max_value)
 
 if __name__ == "__main__":
-    assert elf_carrying_most_calories() == 68292
-    assert top3_elves_carrying_most_calories() == 203203
+    assert part1() == 68292
+    assert part2() == 203203
+
+    print("TIME TAKEN : part1 = ", timeit(part1, number=1000))
+    print("TIME TAKEN : part2 = ", timeit(part2, number=1000))
 

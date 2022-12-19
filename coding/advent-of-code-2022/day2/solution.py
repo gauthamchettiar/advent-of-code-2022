@@ -1,9 +1,12 @@
+# Day 2: Rock Paper Scissors
 # https://adventofcode.com/2022/day/2
 
-input_path = "strategy.txt"
+from timeit import timeit
+
+input_path = "input.txt"
 
 # First Half
-def points_as_per_strategy_guide():
+def part1():
     points = 0
     with open(input_path, "r") as input_file:
         for line in input_file:
@@ -30,7 +33,7 @@ def points_as_per_strategy_guide():
             # opp_hand - player_hand = [-1, -1, 2] -> 0
     return points
 
-def points_as_per_strategy_guide_using_dict():
+def part1_using_dict():
     points_by_strategy = { "Z": {"A":0, "B":6, "C":3, "O":3}, "Y": {"A":6, "B":3, "C":0, "O":2}, "X": {"A":3, "B":0, "C":6, "O":1} }
     points = 0
     with open(input_path, "r") as input_file:
@@ -41,7 +44,7 @@ def points_as_per_strategy_guide_using_dict():
     return points
 
 # Second Half
-def points_as_per_secret_strategy_guide():
+def part2():
     points = 0
     with open(input_path, "r") as input_file:
         for line in input_file:
@@ -61,7 +64,7 @@ def points_as_per_secret_strategy_guide():
     return points
 
 
-def points_as_per_secret_strategy_guide_using_dict():
+def part2_using_dict():
     points = 0
     points_by_strategy = { "Z": {"A":2, "B":3, "C":1, "O":6}, "Y": {"A":1, "B":2, "C":3, "O":3}, "X": {"A":3, "B":1, "C":2, "O":0} }
     with open(input_path, "r") as input_file:
@@ -74,7 +77,12 @@ def points_as_per_secret_strategy_guide_using_dict():
 
 
 if __name__ == "__main__":
-    assert points_as_per_strategy_guide() == 12276 
-    assert points_as_per_strategy_guide_using_dict() == 12276
-    assert points_as_per_secret_strategy_guide() == 9975
-    assert points_as_per_secret_strategy_guide_using_dict() == 9975
+    assert part1() == 12276 
+    assert part1_using_dict() == 12276
+    assert part2() == 9975
+    assert part2_using_dict() == 9975
+
+    print("TIME TAKEN (W/O DICT) : part1 = ", timeit(part1, number=1000))
+    print("TIME TAKEN (W/O DICT) : part2 = ", timeit(part2, number=1000))
+    print("TIME TAKEN (WITH DICT) : part1_using_dict = ", timeit(part1_using_dict, number=1000))
+    print("TIME TAKEN (WITH DICT) : part2_using_dict = ", timeit(part2_using_dict, number=1000))
