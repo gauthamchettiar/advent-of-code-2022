@@ -38,6 +38,6 @@ if __name__ == "__main__":
     assert part1() == 7980
     assert part2() == 2881
     
-    print("TIME TAKEN (NOT OPTIMIZED) : part1 = ", timeit(part1, number=1000))
-    print("TIME TAKEN (NOT OPTIMIZED) : part2 = ", timeit(part2, number=1000))
+    print("TIME TAKEN (USING SET INTERSECTION) : part1 = ", timeit(part1, number=1000))
+    print("TIME TAKEN (USING SET INTERSECTION) : part2 = ", timeit(part2, number=1000))
 

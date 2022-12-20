@@ -1,18 +1,16 @@
-# Coding Problems
-
-## Advent of Code 2022
+# Advent of Code 2022
 
 **Link : [https://adventofcode.com/2022](https://adventofcode.com/2022)**
 
-Day 1: Calorie Counting -- [[link](https://adventofcode.com/2022/day/1)] [[python solution](coding/advent-of-code-2022/day1/solution.py)]
+Day 1: Calorie Counting -- [[link](https://adventofcode.com/2022/day/1)] [[python solution](week1/day1/solution.py)]
 
-Day 2: Rock Paper Scissors -- [[link](https://adventofcode.com/2022/day/2)] [[python solution](coding/advent-of-code-2022/day2/solution.py)]
+Day 2: Rock Paper Scissors -- [[link](https://adventofcode.com/2022/day/2)] [[python solution](week1/day2/solution.py)]
 
-Day 3: Rucksack Reorganization -- [[link](https://adventofcode.com/2022/day/3)] [[python solution](coding/advent-of-code-2022/day3/solution.py)]
+Day 3: Rucksack Reorganization -- [[link](https://adventofcode.com/2022/day/3)] [[python solution](week1/day3/solution.py)]
 
-Day 4: Camp Cleanup -- [[link](https://adventofcode.com/2022/day/4)] [[python solution](coding/advent-of-code-2022/day4/solution.py)]
+Day 4: Camp Cleanup -- [[link](https://adventofcode.com/2022/day/4)] [[python solution](week1/day4/solution.py)]
 
-Day 5: Supply Stacks -- [[link](https://adventofcode.com/2022/day/5)] [[python solution](coding/advent-of-code-2022/day5/solution.py)]
+Day 5: Supply Stacks -- [[link](https://adventofcode.com/2022/day/5)] [[python solution](week1/day5/solution.py)]
 
 Day 6: Tuning Trouble -- [[link](https://adventofcode.com/2022/day/6)] [python solution]
 
