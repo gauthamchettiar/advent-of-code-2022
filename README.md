@@ -29,3 +29,15 @@ Day 12: Hill Climbing Algorithm -- [[link](https://adventofcode.com/2022/day/12)
 Day 13: Distress Signal -- [[link](https://adventofcode.com/2022/day/13)] [python solution]
 
 Day 14: Regolith Reservoir -- [[link](https://adventofcode.com/2022/day/14)] [python solution]
+
+Day 15: Beacon Exclusion Zone -- [[link](https://adventofcode.com/2022/day/15)] [python solution]
+
+Day 16: Proboscidea Volcanium -- [[link](https://adventofcode.com/2022/day/16)] [python solution]
+
+Day 17: Pyroclastic Flow -- [[link](https://adventofcode.com/2022/day/17)] [python solution]
+
+Day 18: Boiling Boulders -- [[link](https://adventofcode.com/2022/day/18)] [python solution]
+
+Day 19: Not Enough Minerals -- [[link](https://adventofcode.com/2022/day/19)] [python solution]
+
+Day 20: Grove Positioning System -- [[link](https://adventofcode.com/2022/day/20)] [python solution]
