@@ -12,7 +12,7 @@ Day 4: Camp Cleanup -- [[link](https://adventofcode.com/2022/day/4)] [[python so
 
 Day 5: Supply Stacks -- [[link](https://adventofcode.com/2022/day/5)] [[python solution](week1/day5/solution.py)]
 
-Day 6: Tuning Trouble -- [[link](https://adventofcode.com/2022/day/6)] [python solution]
+Day 6: Tuning Trouble -- [[link](https://adventofcode.com/2022/day/6)] [[python solution](week2/day6/solution.py)]
 
 Day 7: No Space Left On Device -- [[link](https://adventofcode.com/2022/day/7)] [python solution]
 
