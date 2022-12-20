@@ -10,9 +10,9 @@ Day 2: Rock Paper Scissors -- [[link](https://adventofcode.com/2022/day/2)] [[py
 
 Day 3: Rucksack Reorganization -- [[link](https://adventofcode.com/2022/day/3)] [[python solution](coding/advent-of-code-2022/day3/solution.py)]
 
-Day 4: Camp Cleanup -- [[link](https://adventofcode.com/2022/day/4)] [python solution]
+Day 4: Camp Cleanup -- [[link](https://adventofcode.com/2022/day/4)] [[python solution](coding/advent-of-code-2022/day4/solution.py)]
 
-Day 5: Supply Stacks -- [[link](https://adventofcode.com/2022/day/5)] [python solution]
+Day 5: Supply Stacks -- [[link](https://adventofcode.com/2022/day/5)] [[python solution](coding/advent-of-code-2022/day5/solution.py)]
 
 Day 6: Tuning Trouble -- [[link](https://adventofcode.com/2022/day/6)] [python solution]
 
