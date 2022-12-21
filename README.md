@@ -1,6 +1,8 @@
 # Advent of Code 2022
 
-**Link : [https://adventofcode.com/2022](https://adventofcode.com/2022)**
+> Link : [https://adventofcode.com/2022](https://adventofcode.com/2022)
+
+## Week 1 [Day 1-5]
 
 Day 1: Calorie Counting -- [[link](https://adventofcode.com/2022/day/1)] [[python solution](week1/day1/solution.py)]
 
@@ -12,15 +14,19 @@ Day 4: Camp Cleanup -- [[link](https://adventofcode.com/2022/day/4)] [[python so
 
 Day 5: Supply Stacks -- [[link](https://adventofcode.com/2022/day/5)] [[python solution](week1/day5/solution.py)]
 
+## Week 2 [Day 6-10]
+
 Day 6: Tuning Trouble -- [[link](https://adventofcode.com/2022/day/6)] [[python solution](week2/day6/solution.py)]
 
-Day 7: No Space Left On Device -- [[link](https://adventofcode.com/2022/day/7)] [python solution]
+Day 7: No Space Left On Device -- [[link](https://adventofcode.com/2022/day/7)] [[python solution](week2/day7/solution.py)]
 
 Day 8: Treetop Tree House -- [[link](https://adventofcode.com/2022/day/8)] [python solution]
 
 Day 9: Rope Bridge -- [[link](https://adventofcode.com/2022/day/9)] [python solution]
 
 Day 10: Cathode-Ray Tube -- [[link](https://adventofcode.com/2022/day/10)] [python solution]
+
+## Week 3 [Day 11-15]
 
 Day 11: Monkey in the Middle -- [[link](https://adventofcode.com/2022/day/11)] [python solution]
 
@@ -31,6 +37,8 @@ Day 13: Distress Signal -- [[link](https://adventofcode.com/2022/day/13)] [pytho
 Day 14: Regolith Reservoir -- [[link](https://adventofcode.com/2022/day/14)] [python solution]
 
 Day 15: Beacon Exclusion Zone -- [[link](https://adventofcode.com/2022/day/15)] [python solution]
+
+## Week 4 [Day 16-20]
 
 Day 16: Proboscidea Volcanium -- [[link](https://adventofcode.com/2022/day/16)] [python solution]
 
